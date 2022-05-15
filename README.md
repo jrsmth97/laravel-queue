@@ -11,7 +11,7 @@
 
 Laravel upload file batch with queue process.
 
-## Installation
+## Dependencies Installation
 
 ```bash
 $ composer install
@@ -28,7 +28,7 @@ $ php artisan migrate
 
 ```
 
-## Running Dependency apps 
+## Running Dependency Apps 
 
 ```bash
 $ redis-server
