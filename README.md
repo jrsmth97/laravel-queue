@@ -38,8 +38,9 @@ $ laravel-echo-server start
 ## Running the app
 
 ```bash
-$ php artisan serve
+$ php artisan queue:work
 
+$ php artisan serve
 ```
 
 ## Stay in touch
